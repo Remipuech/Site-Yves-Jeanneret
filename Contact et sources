@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Yves Jeanneret - Contact</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+
+
+<body>
+  <a id="haut-de-page"></a>
+
+  <div class="conteneur">
+  <header>
+    <h1>Yves Jeanneret</h1>
+    <nav>
+      <ul>
+        <li><a href="Accueil.html">Accueil</a></li>
+        <li><a href="biographie.html">Biographie</a></li>
+        <li><a href="Axes de Recherche.html">Axes de Recherche</a></li>
+        <li><a href="travaux.html">Travaux</a></li>
+        <li><a href="À Propos.html">À propos</a></li>
+        <li><a class="active" href="Contact et Sources.html">Contact et Sources</a></li>
+      </ul>
+    </nav>
+  </header>
+
+
+  <section id="contact et sources">
+    <h1>Contact & Sources</h1>
+
+
+    <form>
+      <label for="nom">Nom :</label>
+      <input id="nom" name="nom" required type="text">
+
+
+      <label for="email">Email :</label>
+      <input id="email" name="email" required type="email">
+
+
+      <label for="message">Message :</label>
+      <textarea id="message" name="message" required rows="5"></textarea>
+
+
+      <button type="submit">Envoyer</button>
+    </form>
+
+
+    <h3>Sources et références</h3>
+    <ul>
+      <li><a href="https://fr.wikipedia.org/wiki/Yves_Jeanneret" target="_blank">Informations Biographiques (Wikipédia)</a></li>
+      <li><a href="https://www.gripic.fr/utilisateur/yves-jeanneret" target="_blank">Productions Scientifiques (Gripic)</a></li>
+      <li><a href="https://shs.cairn.info/publications-de-yves-jeanneret--15715?lang=fr" target="_blank">Articles et Informations (Cairn)</a></li>
+      <li><a href="https://shs.cairn.info/revue-communication-et-langages-2020-3-page-3?lang=fr" target="_blank">Contribution dans le domaine (Cairn)</a></li>
+      <li><a href="https://shs.cairn.info/revue-communication-et-langages1-2009-2-page-131?lang=fr" target="_blank">Penser la trivialité, 2008 (Cairn)</a></li>
+      <li><a href="https://i.ytimg.com/vi/jXMVioWX32k/maxresdefault.jpg" target="_blank">Image d'accueil</a></li>
+    </ul>
+  </section>
+
+
+  <footer>
+    <p>&copy; 2025 - Rémi Puech | Tous droits réservés</p>
+  </footer>
+  </div>
+  <a href="#haut-de-page">Revenir en haut</a>
+  
+</body>
+</html>
