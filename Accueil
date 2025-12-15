@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Yves Jeanneret - Accueil</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+  <a id="haut-de-page"></a>
+
+  <div class="conteneur">
+    
+    <header>
+      <h1>Yves Jeanneret</h1>
+      <nav>
+        <ul>
+          <li><a class="active" href="Accueil.html">Accueil</a></li>
+          <li><a href="biographie.html">Biographie</a></li>
+          <li><a href="Axes de Recherche.html">Axes de Recherche</a></li>
+          <li><a href="travaux.html">Travaux</a></li>
+          <li><a href="À Propos.html">À propos</a></li>
+          <li><a href="Contact et Sources.html">Contact et Sources</a></li>
+        </ul>
+      </nav>
+    </header>
+
+
+    <section id="accueil">
+
+      <h1>En quelques mots</h1>
+      <h2 class="sous-titre">Une figure essentielle des sciences de l'information et de la communication</h2>
+
+      <div class="accueil-flex">
+        
+        <div class="texte-accueil">
+          <p>Né le <strong>14 décembre 1951</strong> et mort le <strong>25 mai 2020</strong>, Yves Jeanneret fut l’un des chercheurs majeurs des sciences de l’information et de la communication, particulièrement reconnu pour ses travaux sur la <strong>culture triviale</strong>, l’<strong>architexte</strong> et les transformations des pratiques de lecture et d’écriture.</p>
+
+          <p>Professeur et chercheur engagé, il a marqué durablement les domaines de la communication, de la médiation du savoir et de la culture numérique, en analysant la manière dont les technologies influencent nos pratiques et nos imaginaires.</p>
+
+          <p class="intro">Son œuvre demeure aujourd’hui une référence essentielle pour comprendre la circulation des savoirs dans une société médiatisée.</p>
+        </div>
+
+        <div class="portrait-container">
+          <img src="https://i.ytimg.com/vi/jXMVioWX32k/maxresdefault.jpg" alt="Portrait d'Yves Jeanneret" class="portrait">
+        </div>
+
+      </div>
+
+    </section>
+
+
+    <footer>
+      <p>&copy; 2025 - Rémi Puech | Tous droits réservés</p>
+    </footer>
+
+  </div>
+
+  <a href="#haut-de-page">Revenir en haut</a>
+
+</body>
+</html>
+
