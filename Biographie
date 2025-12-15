@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Yves Jeanneret - Biographie</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+
+
+<body>
+  <a id="haut-de-page"></a>
+
+  <div class="conteneur">
+  <header>
+    <h1>Yves Jeanneret</h1>
+    <nav>
+      <ul>
+        <li><a href="Accueil.html">Accueil</a></li>
+        <li><a class="active" href="biographie.html">Biographie</a></li>
+        <li><a href="Axes de Recherche.html">Axes de Recherche</a></li>
+        <li><a href="travaux.html">Travaux</a></li>
+        <li><a href="À Propos.html">À propos</a></li>
+        <li><a href="Contact et Sources.html">Contact et Sources</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section id="biographie">
+    <h1>Biographie & Présentation</h1>
+     
+
+<div class="bloc-centre">
+  <p class="texte-important">Il fut élève de l’École normale supérieure, faisant partie de la promotion 1972. Par la suite, il passe l’agrégation de lettres classiques ainsi qu’un doctorat en littérature et civilisation française consacré à l'œuvre de Romain Rolland. Après avoir été professeur de lettres en collège et lycée, il se dirige ensuite vers l’enseignement supérieur et devient également maître de conférences à Lille 3 (Université de Lille), l’Université d’Avignon, et à l’Université Celsa Sorbonne.
+      Il devient dirigeant d’équipes de recherche (GRIPIC au Celsa), (UMR LaLIC à Paris-Sorbonne). Durant plusieurs années, il a aussi occupé des positions éditoriales. En effet, il a été co-rédacteur en chef de Communication et Langages (Necplus), membre du Comité éditorial de Culture et musées, membre du Comité scientifique de Études de communication, et directeur de la collection Communication, médiation et construits sociaux chez Hermès-Lavoisier.
+</p>
+</div>
+  </section>
+
+
+
+      <div class="timeline">
+  <div class="event">
+    <h3>1952</h3>
+    <p>Naissance à Bry-sur-Marne</p>
+  </div>
+
+  <div class="event">
+    <h3>Années 1980</h3>
+    <p>Travaille dans l’édition et la communication (notamment dans l’édition scientifique)</p>
+  </div>
+
+  <div class="event">
+    <h3>1992</h3>
+    <p>Soutient une thèse d’État en sciences de l’information et de la communication</p>
+  </div>
+
+<div class="event">
+    <h3>1994</h3>
+    <p>Devient professeur à l’Université de Lille 3 (Sciences Humaines et Sociales)</p>
+  </div>
+
+<div class="event">
+    <h3>2002</h3>
+    <p>Est nommé professeur au CELSA (École des hautes études en sciences de l’information et de la communication), Sorbonne Université</p>
+  </div>
+
+<div class="event">
+    <h3>Années 2000</h3>
+    <p>Devient l’une des figures de référence dans l’étude de la communication, du numérique et de la culture médiatique</p>
+  </div>
+
+<div class="event">
+    <h3>2014-2019</h3>
+    <p>Dirige le GRIPIC (Groupe de recherche interdisciplinaire sur les processus d’information et de communication) au CELSA</p>
+  </div>
+
+<div class="event">
+    <h3>2020</h3>
+    <p>Décès à Bry-sur-Marne</p>
+  </div>
+</div>
+
+
+  <footer>
+    <p>&copy; 2025 - Rémi Puech | Tous droits réservés</p>
+  </footer>
+  </div>
+  <a href="#haut-de-page">Revenir en haut</a>
+  
+</body>
+</html>
