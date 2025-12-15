@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Yves Jeanneret - Travaux et Publications</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+  <a id="haut-de-page"></a>
+
+  <div class="conteneur">
+    <header>
+      <h1>Yves Jeanneret</h1>
+      <nav>
+        <ul>
+          <li><a href="Accueil.html">Accueil</a></li>
+          <li><a href="biographie.html">Biographie</a></li>
+          <li><a href="Axes de Recherche.html">Axes de Recherche</a></li>
+          <li><a class="active" href="travaux.html">Travaux</a></li>
+          <li><a href="À Propos.html">À propos</a></li>
+          <li><a href="Contact et Sources.html">Contact et Sources</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <section id="travaux" class="section">
+      <h1 class="titre-section">Travaux & Publications</h1>
+      <p class="intro-section">
+        Voici les travaux et publications d’Yves Jeanneret sur le sujet depuis 1976, jusqu’à 2014 et son dernier ouvrage.
+      </p>
+
+      <ul class="liste-travaux">
+        <li><em>Critique de la Trivialité</em>, Éditions Non Standart, 2014 <a href="https://www.eyrolles.com/Entreprise/Livre/critique-de-la-trivialite-9782954285252/" target="_blank">(image 1)</a></li>
+        <li><em>Where is Mona Lisa ?</em>, Le Cavalier Bleu, 2011</li>
+        <li><em>Penser la trivialité</em>, Lavoisier & Hermes-sciences, 2008 <a href="https://www.fabula.org/actualites/29804/y-jeanneret-penser-la-trivialite-volume-1-la-vie-triviale-des-etres-culturels.html" target="_blank">(image 2)</a></li>
+        <li><em>Y a-t-il (vraiment) des technologies de l'information ?</em>, Presses universitaires du Septentrion, 2007 <a href="https://www.septentrion.com/fr/book/?GCOI=27574100989210" target="_blank">(image 3)</a></li>
+        <li><em>Lire, écrire, réécrire : objets, signes et pratiques des médias informatisés</em>, Bibliothèque publique d’information, 2003</li>
+        <li><em>L'affaire Sokal, ou la querelle des impostures</em>, Presses universitaires de France, 1998-1999</li>
+        <li><em>Hermès au carrefour</em>, Université de Paris VII, 1996</li>
+        <li><em>Écrire la science. Formes et enjeux de la vulgarisation</em>, Presses universitaires de France, 1994</li>
+        <li><em>Conversations racontées : Mme de Lafayette, Stendhal, Flaubert, Proust</em>, Quintette, 1990</li>
+        <li><em>Un demi-siècle de réception critique de l'œuvre de Romain Rolland en France</em>, Université de Paris III, 1982</li>
+        <li><em>Le Théâtre de la révolution de Romain Rolland</em>, ÉNS, 1976</li>
+      </ul>
+
+      <div class="galerie">
+        <img src="https://servimg.eyrolles.com/static/media/5252/9782954285252_internet_w290.jpg" alt="Critique de la trivialité">
+        <img src="https://www.fabula.org/actualites/documents/29804.jpg" alt="Penser la trivialité">
+        <img src="https://m.media-amazon.com/images/I/61UgeeHe8FL._UF1000,1000_QL80_.jpg" alt="Y a-t-il des technologies de l'information ?">
+      </div>
+    </section>
+
+    <footer>
+      <p>&copy; 2025 - Rémi Puech | Tous droits réservés</p>
+    </footer>
+  </div>
+
+  <a href="#haut-de-page" class="haut-de-page">⬆ Retour en haut</a>
+
+</body>
+</html>
