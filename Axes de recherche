@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Yves Jeanneret - Axes de recherche</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+
+
+<body>
+  <a id="haut-de-page"></a>
+
+  <div class="conteneur">
+  <header>
+    <h1>Yves Jeanneret</h1>
+    <nav>
+      <ul>
+        <li><a href="Accueil.html">Accueil</a></li>
+        <li><a href="biographie.html">Biographie</a></li>
+        <li><a class="active" href="Axes de Recherche.html">Axes de Recherche</a></li>
+        <li><a href="travaux.html">Travaux</a></li>
+        <li><a href="À Propos.html">À propos</a></li>
+        <li><a href="Contact et Sources.html">Contact et Sources</a></li>
+      </ul>
+    </nav>
+  </header>
+
+
+  <section id="axes de recherche.html">
+    <h1>Axes de recherche & Vision</h1>
+</section>
+
+    <div class="page-centree">
+    <p>Les travaux d'Yves Jeanneret se sont principalement articulés autour de la réflexion sur les médias, la communication et la culture, en particulier dans leur interaction avec les technologies numériques et la société contemporaine.</p>
+    <p>Yves Jeanneret s’est notamment interrogé sur la prétendue neutralité des technologies de l'information et de la communication (TIC), en étudiant leur impact sur les pratiques sociales et intellectuelles. Dans des ouvrages comme Écrire la science. Formes et enjeux de la vulgarisation, il s’est intéressé à la manière dont les savoirs complexes sont adaptés au public et à la société.</p>
+    <p>De plus, ses recherches sur Lire, écrire, réécrire ont examiné les effets des technologies de l’information sur les pratiques de lecture, d’écriture et de réécriture.</p>
+    <p>Mais au-delà, il s’est largement focalisé sur un concept central : <strong>La Trivialité</strong>.</p>
+    <p>Ce concept, Yves Jeanneret l’a longuement étudié, en faisant le lien entre le texte et l’architexte. La culture triviale désigne chez lui les pratiques culturelles ordinaires qui participent à la circulation des savoirs et à la construction du sens dans l’espace social, comme il le développe dans Critique de la Trivialité (2014).</p>
+    <p>Dans sa réflexion, il désigne l’architexte comme les structures invisibles qui organisent les objets médiatiques et culturels. Inspiré de Gérard Genette, il réinterprète cette notion dans une perspective médiatique et sémiotique.</p>
+  </section>
+</div>
+
+<div class="liens">
+  <ul>
+    <li><a href="https://sites.ensfea.fr/cdi/wp-content/uploads/sites/3/2014/07/texte-jeanneret-r%C3%A9seaux-sociaux.pdf" target="_blank">Extrait Réseaux Sociaux - Critique de la Trivialité, 2014</a></li>
+    <li><a href="https://univ-rennes2.hal.science/hal-02099660/document" target="_blank">Interview sur l’architexte, 2017</a></li>
+    </ul>
+  </div>
+
+  <div class="video">
+<h2>Vidéo Culture Triviale, 2005</h2>
+<p>Dans cette vidéo, il cite Gérard Genette pour l’architexte, qui est plus ou moins à l’origine de la définition littéraire du concept.</p>
+  </div>
+
+  <div class="video-container">
+  <iframe width="560" height="315" src="https://www.canal-u.tv/chaines/fmsh/embed/89341?t=0" allowfullscreen></iframe>
+</div>
+
+<div class="vision">
+<h2>Vision d'Yves Jeanneret</h2>
+<p>Ce schéma représente parfaitement la vision d'Yves Jeanneret, où il fait le lien entre la Culture Triviale et l'Architexte, qui sont les 2 concepts centraux à ses yeux.</p>
+ </div>
+
+<div class="image-texte">
+  <img src="../images/schéma.png" alt="Schéma" class="photo">
+</div>
+
+
+  <footer>
+    <p>&copy; 2025 - Rémi Puech | Tous droits réservés</p>
+  </footer>
+
+  <a href="#haut-de-page">Revenir en haut</a>
+
+</body>
+</html>
