@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Yves Jeanneret - À propos</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+
+
+<body>
+  <a id="haut-de-page"></a>
+
+  <div class="conteneur">
+  <header>
+    <h1>Yves Jeanneret</h1>
+    <nav>
+      <ul>
+        <li><a href="Accueil.html">Accueil</a></li>
+        <li><a href="biographie.html">Biographie</a></li>
+        <li><a href="Axes de Recherche.html">Axes de Recherche</a></li>
+        <li><a href="travaux.html">Travaux</a></li>
+        <li><a class="active" href="À Propos.html">À propos</a></li>
+        <li><a href="Contact et Sources.html">Contact et Sources</a></li>
+      </ul>
+    </nav>
+  </header>
+
+<div class="propos">
+  <section id="à Propos">
+    <h1>À propos</h1>
+    <p>Ce site a été créé pour présenter les moments importants de la carrière d’Yves Jeanneret, sa vision, et ses principaux travaux. J’ai choisi de construire un site clair, simple et facile à lire, tout en mettant en valeur les informations importantes de manière visuelle.</p>
+
+
+<h3>Choix des couleurs</h3>
+<p>J’ai principalement utilisé l’association des couleurs bleu et blanc comme couleur dominante.
+Selon moi, le bleu est une couleur qui incarne la modernité, tout en restant classique et efficace. L’efficacité, il en est question dans son association avec le blanc, qui offre un contraste plaisant, et qui favorise l’accessibilité visuelle.</p>
+
+<h3>Choix de la typographie</h3>
+<p>J’ai choisi la police Arial car c’est une police lisible, moderne et confortable pour la lecture sur écran, et surtout accessible.
+
+
+La taille de police a été légèrement augmentée pour rendre le texte plus accessible et agréable à lire, notamment pour les longues parties textuelles moins agréables.</p>
+
+<h3>Mise en page</h3>
+<p>Dans un souci d’accessibilité, j’ai décidé de limiter la largeur du contenu pour éviter que les lignes de texte soient trop longues, ce qui améliore également la lisibilité.
+
+Du côté de la biographie, les grandes lignes de la vie et de la carrière d’Yves Jeanneret sont présentées sous forme de cartes rectangulaires, ce qui permet de bien séparer chaque information pour gagner en clarté et accessibilité, tout en gardant un visuel agréable.
+
+Toujours dans le cadre de l’accessibilité, j’ai réalisé plusieurs choses pour aller dans ce sens. En ce qui concerne les titres et sous-titres, j’ai décidé de les mettre en valeur distinctement avec un menu visuel en haut de page avec chaque partie. J’ai fait en sorte que si la souris est sur une partie, cette même partie se distingue des autres, pour une meilleure maniabilité et visibilité.
+
+Dans la page “Axes de recherche”, j’ai décidé de mettre et schéma de la vision d’Yves Jeanneret, un schéma que j’ai moi-même réalisé à partir des informations collectées sur certaines sources scientifiques, qui sont aussi (pour certaines) retranscrites dans le site. Ces sources sont disponibles en fin de site ou dans les pages concernées.
+Pour garder une certaine cohérence, j’ai adapté le schéma au site en respectant le visuel bleu et blanc du site, ce qui rejoint encore une fois l’accessibilité.</p>
+
+<h3>Objectif du site</h3>
+<p>Avec ce site, mon objectif était de créer un site informatif mais agréable, facile à parcourir, et qui met en avant les informations clés d’Yves Jeanneret de manière claire, structurée et esthétique, en mettant un accent sur l’accessibilité.</p>
+
+</section>
+</div>
+
+  <footer>
+    <p>&copy; 2025 - Rémi Puech | Tous droits réservés</p>
+  </footer>
+  </div>
+  <a href="#haut-de-page">Revenir en haut</a>
+
+</body>
+</html>
